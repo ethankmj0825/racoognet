@@ -25,7 +25,7 @@ racoogent chat
 ```bash
 racoogent chat
 racoogent models
-racoogent use gpt-oss:120b
+racoogent chat --provider llama --model gpt-oss:120b
 racoogent mcp list
 racoogent clawlink status
 ```
