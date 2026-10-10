@@ -17,6 +17,8 @@ Most AI agents live in the cloud. Racoogent lives on *your* Linux. You control t
 ## Quick Start
 ```bash
 pip install racoogent
+or
+pipx install racoogent
 racoogent first-setup
 racoogent chat
 ```
